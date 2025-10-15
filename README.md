@@ -1,5 +1,4 @@
-# Object-Detection
-HSV-Based Object Tracking from Video Stream Using OpenCV
+# HSV-Based Object Tracking from Video Stream Using OpenCV
 
 This project uses OpenCV and the HSV color space to detect and track objects of a specific color in real time via a webcam feed.
 
