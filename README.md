@@ -82,10 +82,11 @@ python3 objectdetect.py
 Below are some sample output frames showing object detection and tracking:
 
 	Object detected and highlighted with bounding box
-  <img width="1282" height="577" alt="Image" src="https://github.com/user-attachments/assets/8f938c13-7568-41ee-af32-9f10454233d4" />
-
  <img width="1284" height="587" alt="Image" src="https://github.com/user-attachments/assets/8b676a24-4dc2-4502-952a-b5ecfccbf25a" />
+ 
+<img width="1284" height="587" alt="Image" src="https://github.com/user-attachments/assets/eeb7b0d6-338e-42f5-8c9a-280cae3b041c" />
 
+<img width="1284" height="587" alt="Image" src="https://github.com/user-attachments/assets/7541e5c0-ced3-4c66-b5ae-838526e022c6" />
 	 
 
 ---
