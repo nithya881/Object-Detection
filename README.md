@@ -77,7 +77,7 @@ python3 objectdetect.py
 
 ---
 
-##📸 Results
+## 📸 Results
 
 Below are some sample output frames showing object detection and tracking:
 
