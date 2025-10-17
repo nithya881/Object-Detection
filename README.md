@@ -87,6 +87,8 @@ Below are some sample output frames showing object detection and tracking:
 
 	Tracking the same color in motion
 
+	
+
 	HSV mask used for color filtering
 
 ---
