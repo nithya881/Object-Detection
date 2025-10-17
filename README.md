@@ -81,11 +81,9 @@ python3 objectdetect.py
 
 Below are some sample output frames showing object detection and tracking:
 
-Frame	Description
-
 	Object detected and highlighted with bounding box
+  
 <img width="1282" height="577" alt="Image" src="https://github.com/u
-
 
 	Tracking the same color in motion
 
